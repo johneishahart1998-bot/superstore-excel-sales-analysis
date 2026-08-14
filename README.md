@@ -51,6 +51,15 @@ An interactive Excel dashboard was created using PivotTables, PivotCharts, calcu
 - Shipping analysis showed differences in performance across shipping methods.
 - Monthly analysis revealed changes in sales performance throughout the year.
 
+  ## Business Recommendations
+
+- Prioritize high-performing product categories and sub-categories by maintaining appropriate inventory levels and identifying opportunities for targeted promotions.
+- Investigate regional performance differences to understand which markets are driving revenue and where additional sales opportunities may exist.
+- Develop strategies to retain and grow high-value customer segments through targeted offers and relationship-building initiatives.
+- Review shipping-method performance alongside cost and customer experience to determine the most effective fulfillment options.
+- Use monthly sales trends to improve inventory planning, staffing, and promotional timing during periods of higher or lower demand.
+
+
 ## Project Outcome
 
 This project demonstrates the ability to transform raw transactional data into a structured Excel analysis and business dashboard. The dashboard provides a clear view of sales performance and profitability while highlighting areas that can support business decision-making.
